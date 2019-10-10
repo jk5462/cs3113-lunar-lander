@@ -1,0 +1,6 @@
+﻿  Entity.cpp
+  main.cpp
+  ShaderProgram.cpp
+  코드를 생성하고 있습니다...
+C:\Users\Augustine\source\repos\LunarLander\main.cpp(76,26): warning C4305:  '=': 'double'에서 'float'(으)로 잘립니다.
+  SDLProject.vcxproj -> C:\Users\Augustine\source\repos\LunarLander\Debug\SDLProject.exe
